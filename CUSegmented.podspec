@@ -10,12 +10,12 @@ Pod::Spec.new do |s|
 
   s.name         = "CUSegmented"
   s.version      = "0.1.3"
-  s.summary      = "CUSegmented - custom segmented control for iOS."
+  s.summary      = "Custom segmented control for iOS."
   s.description  = <<-DESC 
 	CUSegmented - custom segmented control for iOS.
                    DESC
 
-  s.homepage     = "http://i-dev.top"
+  s.homepage     = "https://github.com/Viher-Sano/CUSegmented"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "Alexander Ruduk" => "alakai.1998.28@gmail.com" }
   s.platform     = :ios
